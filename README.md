@@ -14,6 +14,9 @@ Links to various courses and help material
 ##Django
 
 1. https://docs.djangoproject.com/en/1.10/
+2. http://tutorial.djangogirls.org/
+3. https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+4. https://github.com/twoscoops/django-twoscoops-project
   
 ##GitHub
 
