@@ -10,6 +10,11 @@ Links to various courses and help material
 5. [HackerEarth](https://www.hackerearth.com/)
 6. [CodeForces](http://codeforces.com/)
 7. [CodeFights](https://codefights.com/)
+8. [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
+9. [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
+10. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
+11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
 ##Django
 
