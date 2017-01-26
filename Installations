@@ -1,0 +1,128 @@
+--> read only mount a drive
+		sudo mkdir /media/windows/c-drive 
+		sudo mkdir /media/windows/e-drive 
+			sudo mount -o ro /dev/sda2 /media/windows/c-drive/
+		sudo mount -o ro /dev/sda3 /media/windows/e-drive/
+
+--> SSH:
+		passwd (Changing Login password -- command after login)
+		exit (to exit)
+		pykotme (for account details regarding page count of printing)
+		lpq -P hp3005
+
+--> To find the username, type
+		whoami
+	on the Xubuntu machine. Instead of "host", look for the IP address. For example, run
+		ifconfig
+	and look for something like inet addr:192.168.0.100
+
+--> Installing Boot-Repair
+		sudo add-apt-repository ppa:yannubuntu/boot-repair
+		sudo apt-get update
+		sudo apt-get install -y boot-repair && boot-repair
+	Run from terminal: boot-repair
+
+--> Configuring SSH through OpenSSH (reference website-- https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
+		1.	sudo apt-get install openssh-server
+		2.	sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-defaults (Saving the file)
+		3.	sudo chmod a-w /etc/ssh/sshd_config.factory-defaults (making file read only)
+		4.	sudo gedit /etc/ssh/sshd_config (To edit SSH rights and other configurations-- refer to the website for more details)
+		5.	sudo restart ssh (But if you get a "Unable to connect to Upstart" error then follow point 6.)
+		6.	sudo sudo systemctl restart ssh
+
+--> Installing Sublime 
+		Directly from software centre
+
+--> Making an application default in place of an recently installed app
+		1.	sudo sed -i 's/gedit.desktop/sublime-text-2.desktop/g' /etc/gnome/defaults.list 
+		
+		/*	The above command changes gedit.desktop( wherever this name occurs) file to sublime_text.desktop in /etc/gnome/defaults.list. If the application name is 	 different from gedit and sublime then change there names as required.
+			But what exact name to type you have write in place you can get by doing "ls" in /usr/share/applications/ .
+
+			/g (in sed command)- Apply the replacement to all matches to the gesit.desktop, not just the first.
+
+			sed- for replacement purpose
+
+			-i - refer to the root account's home directory
+		*/
+
+--> To shut down the orca screen reader off
+		command-   killall orca
+		kill - kill random processes
+
+		killall - kill all the processes using that name
+
+--> command- top (process numbers which are using cpu)
+
+--> free will give you information about free and used RAM.
+
+--> Last but certainly not least --help. This will provide a quick help list about the command you are trying to run
+
+--> apt-get autoremove (removes the reluctant packages that are additional or unused or incorrectly installed/set)
+
+--> The applications that work on wine can be found on the link  " https://appdb.winehq.org/ "
+
+--> ls -a (shows hidden files)
+
+--> cat install.log (view file contents)
+
+--> wget url_of_the_content (GNU Wget or wget is very handy in downloading stuffs from internet, over the command line.)
+
+--> gksudo nautilus (command will open nautilus with root privilege. It’s just like sudo, but in GUI mode.)
+
+--> shutdown through terminal
+			1. sudo poweroff
+			2. sudo shutdown -h now (now can be replaced with 0 or the time for shutdown like 10:30)
+			3. sudo halt
+			4. sudo init 0 
+
+			for more help (shutdown --help)
+
+--> reboot  from terminal 
+			1. sudo reboot
+			2. sudo init 6
+			3. restart
+
+--> sudo add-apt-repository ppa:shnatsel/eidete-daily (adding the PPA for the App Eidete (Screencasting program))
+
+--> running batch files on linux or having a cmd of windows on linux ( http://www.linux.org/threads/running-windows-batch-files-on-linux.7610/ )
+
+		Summary--
+			1. wineconsole cmd (This will open a separate Windows-Console (cmd) window and then we can run various windows commands)	
+			2. wine cmd (to run the Windows-Console (cmd) in the Linux terminal itself)
+			3. When in the native Linux shell, the batch files can be executed by typing "wine cmd.exe /c FILENAME.bat" or any of the following ways.
+				a.	wine cmd < FILENAME.bat
+				b.	wine cmd.exe < FILENAME.bat
+				c.	wine start FILENAME.bat
+				d.	wine cmd /c FILENAME.bat
+			
+
+--> Installing y-ppa manager (which manages all ppa issues)-
+		1. sudo add-apt-repository ppa:webupd8team/y-ppa-manager
+		2. sudo apt-get update
+		3. sudo apt-get install y-ppa-manager	
+
+		(y-ppa manager can be used to import missing gpg keys through it's advanced options)
+
+--> Importing a certain missing GPG key --
+		1. By GUI of Y-ppa manager
+		2. (a) sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
+				(where <PUBKEY> is your missing public key for repository, e.g. 8BAF9A6F)
+		   (b) sudo apt-get update	
+		3. (a) gpg --keyserver keyserver.ubuntu.com --recv-key <pubkey>
+		   (b) gpg -a --export <pubkey> | sudo apt-key add -
+		4. Some keys can be added only with "No Proxy".
+
+--> To make shutter default screenshotting tool , go in keyboards and shortcut keys
+		1. Add name of custom key (anything)
+		2. command is (shutter -f)
+		3. Make the combination of keys.
+
+--> If changes are done in /etc/environment file then use "sudo -E #command#" if error occurs when we normally do "sudo #command#".
+
+--> If you feel that the system volume is less (in usual or in comparison to windows) then
+		1. Firstly check alsamixer (type in command line and check all the volumes--use arrow keys and Esc key to exit)
+		(Ubuntu by default can handle volume larger than 100%)
+		2. Else install paman (sudo apt-get install paman)...go to dash and search for Pulse Audio Volume Control and then the volumes as per your requirements..This can set the volumes much greater than 100% also .
+
+--> 
