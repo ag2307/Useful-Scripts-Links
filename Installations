@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --> read only mount a drive
 		sudo mkdir /media/windows/c-drive 
 		sudo mkdir /media/windows/e-drive 
@@ -16,12 +17,15 @@
 		ifconfig
 	and look for something like inet addr:192.168.0.100
 
+=======
+>>>>>>> aae285929e3bd0b59611453b5a4ab6250c32c062
 --> Installing Boot-Repair
 		sudo add-apt-repository ppa:yannubuntu/boot-repair
 		sudo apt-get update
 		sudo apt-get install -y boot-repair && boot-repair
 	Run from terminal: boot-repair
 
+<<<<<<< HEAD
 --> Configuring SSH through OpenSSH (reference website-- https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
 		1.	sudo apt-get install openssh-server
 		2.	sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-defaults (Saving the file)
@@ -30,6 +34,8 @@
 		5.	sudo restart ssh (But if you get a "Unable to connect to Upstart" error then follow point 6.)
 		6.	sudo sudo systemctl restart ssh
 
+=======
+>>>>>>> aae285929e3bd0b59611453b5a4ab6250c32c062
 --> Installing Sublime 
 		Directly from software centre
 
@@ -109,11 +115,17 @@
 		2. (a) sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
 				(where <PUBKEY> is your missing public key for repository, e.g. 8BAF9A6F)
 		   (b) sudo apt-get update	
+<<<<<<< HEAD
 		3. (a) gpg --keyserver keyserver.ubuntu.com --recv-key <pubkey>
 		   (b) gpg -a --export <pubkey> | sudo apt-key add -
 		4. Some keys can be added only with "No Proxy".
 
 --> To make shutter default screenshotting tool , go in keyboards and shortcut keys
+=======
+		3. Some keys can be added only with "No Proxy".
+
+--> To make shutter default screenshotting toll , go in keyboards and shortcut keys
+>>>>>>> aae285929e3bd0b59611453b5a4ab6250c32c062
 		1. Add name of custom key (anything)
 		2. command is (shutter -f)
 		3. Make the combination of keys.
@@ -122,7 +134,10 @@
 
 --> If you feel that the system volume is less (in usual or in comparison to windows) then
 		1. Firstly check alsamixer (type in command line and check all the volumes--use arrow keys and Esc key to exit)
+<<<<<<< HEAD
 		(Ubuntu by default can handle volume larger than 100%)
+=======
+>>>>>>> aae285929e3bd0b59611453b5a4ab6250c32c062
 		2. Else install paman (sudo apt-get install paman)...go to dash and search for Pulse Audio Volume Control and then the volumes as per your requirements..This can set the volumes much greater than 100% also .
 
 --> 

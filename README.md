@@ -10,6 +10,11 @@ Links to various courses and help material
 5. [HackerEarth](https://www.hackerearth.com/)
 6. [CodeForces](http://codeforces.com/)
 7. [CodeFights](https://codefights.com/)
+8. [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
+9. [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
+10. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
+11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
 ##Django
 
@@ -29,6 +34,7 @@ Links to various courses and help material
 ##Git
 
 1. [Git Documentation](https://git-scm.com/docs)
+2. [Setting up proxy settings in git](http://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server)
 
 ##Java Server Pages (JSP)
 
@@ -54,8 +60,14 @@ Links to various courses and help material
 2. [Terminal Guide](https://help.ubuntu.com/community/CategoryCommandLine)
 3. [Installing Wine](http://ubuntuhandbook.org/index.php/2015/12/install-wine-1-8-stable-new-ppa/)
 4. [Software installation through Wine](http://askubuntu.com/questions/316025/how-to-install-and-configure-wine)
-5. [Creating Hotspot in Ubuntu 16.04](http://askubuntu.com/questions/762846/how-to-creat-wifi-hotspot-in-ubuntu-16-04-since-ap-hotspot-is-no-more-working)
+5. [Creating Hotspot in Ubuntu 16.04](http://askubuntu.com/questions/762846/how-to-creat-wifi-hotspot-in-ubuntu-16-04-since-ap-hotspot-is-no-more-working) 
 
 ##Windows Twerks
 
 1. [Creating Hotspot through **Command Prompt**](http://www.technicalnotes.org/create-wi-fi-hotspot-in-windows-10-using-command-prompt/)
+
+##Other Links
+
+1. [Type a function and see it's graph !!](https://www.desmos.com/calculator)
+2. [Visualise data structures and algorithms through animation](http://visualgo.net/)
+3. [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
