@@ -52,7 +52,7 @@ Links to various courses and help material
 
 1. [Dual-Booting Steps](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 2. [Bootable USB Creator Tool](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
-3. [Fixing Time Conflict After Dual Booting](http://askubuntu.com/questions/169376/clock-time-is-off-on-dual-boot) and for reverting the settings refer to [this](http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html) .
+3. [Fixing Time Conflict After Dual Booting](http://askubuntu.com/questions/169376/clock-time-is-off-on-dual-boot) or [Setting time Manually](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Configuring_the_Date_and_Time.html) and for reverting the settings refer to [this](http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html) .
 
 ##Ubuntu
 
