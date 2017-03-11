@@ -61,6 +61,7 @@ Links to various courses and help material
 3. [Installing Wine](http://ubuntuhandbook.org/index.php/2015/12/install-wine-1-8-stable-new-ppa/)
 4. [Software installation through Wine](http://askubuntu.com/questions/316025/how-to-install-and-configure-wine)
 5. [Creating Hotspot in Ubuntu 16.04](http://askubuntu.com/questions/762846/how-to-creat-wifi-hotspot-in-ubuntu-16-04-since-ap-hotspot-is-no-more-working) 
+6. [Shortening command line (bash) prompt?](http://askubuntu.com/questions/145618/how-can-i-shorten-my-command-line-bash-prompt)
 
 ##Windows Twerks
 
