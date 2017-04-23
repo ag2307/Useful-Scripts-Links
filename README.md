@@ -74,6 +74,7 @@ Links to various courses and help material
 2. [Visualise data structures and algorithms through animation](http://visualgo.net/)
 3. [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 4. [How to Setup IRC's](https://www.youtube.com/watch?v=gMQ9b-OPOsg)
+5. [Youtube Keyboard Shortcuts](http://www.hongkiat.com/blog/youtube-keyboard-shortcuts/)
 
 ## Latex
 
