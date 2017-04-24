@@ -26,11 +26,13 @@ Links to various courses and help material
 ## GitHub
 
 1. https://help.github.com/
-  1.  **Commiting large files in github** refer to https://help.github.com/articles/installing-git-large-file-storage/
+2. **For Commiting large files on github** refer to https://help.github.com/articles/installing-git-large-file-storage/
       and https://git-lfs.github.com/
-
-  2.  **Using Markdown on GitHub** refer to https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
-  3.  [**Adding emojis to git/github commit messages**](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+3. **Using Markdown on GitHub** refer to https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
+4. [**Adding emojis to git/github commit messages**](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+5. [**Customized Badges for Github Readme**](http://shields.io/)
+6. [Catching raw files directly from github](https://rawgit.com/)
+  
 
 ## Git
 
