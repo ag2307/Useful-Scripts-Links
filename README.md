@@ -16,6 +16,12 @@ Links to various courses and help material
 11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
+## Data Structures and Algorithms
+
+1. [Cormen 3rd edition solutions-1](http://www.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+2. [Cormen 3rd edition solutions-2](https://github.com/gzc/CLRS)
+3. [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+
 ## Django
 
 1. https://docs.djangoproject.com/en/1.10/
