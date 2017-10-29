@@ -43,7 +43,6 @@ Links to various courses and help material
    - [Link-1](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
    - [Link-2](https://gist.github.com/rxaviers/7360908)
 5. [**Customized Badges for Github Readme**](http://shields.io/)
-6. [Catching raw files directly from github](https://rawgit.com/)
   
 
 ## Git
