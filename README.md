@@ -16,6 +16,10 @@ Links to various courses and help material
 11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
+## ACM-ICPC Notebook
+
+1. [MIT Notebook](http://web.mit.edu/~ecprice/acm/acm08/notebook.html)
+
 ## Data Structures and Algorithms
 
 1. [Cormen 3rd edition solutions-1](http://www.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
