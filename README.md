@@ -15,7 +15,11 @@ Links to various courses and help material
 10. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
 11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
-
+13. [Hired in Tech](https://www.hiredintech.com/)
+14. [interviewBit](https://www.interviewbit.com/dashboard/)
+15. [Interviewing](https://interviewing.io/)
+16. [pramp](https://www.pramp.com/)
+17. [Leetcode](https://leetcode.com/)
 ## ACM-ICPC Notebook
 
 1. [MIT Notebook](http://web.mit.edu/~ecprice/acm/acm08/notebook.html)
