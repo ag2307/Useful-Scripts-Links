@@ -61,6 +61,7 @@ Links to various courses and help material
 
 1. [Git Documentation](https://git-scm.com/docs)
 2. [Setting up proxy settings in git](http://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server)
+3. [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Java Server Pages (JSP)
 
@@ -100,6 +101,7 @@ Links to various courses and help material
 3. [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 4. [How to Setup IRC's](https://www.youtube.com/watch?v=gMQ9b-OPOsg)
 5. [Youtube Keyboard Shortcuts](http://www.hongkiat.com/blog/youtube-keyboard-shortcuts/)
+6. [Vim Adventures - learn vim while playing a game](https://vim-adventures.com/)
 
 ## Latex
 
