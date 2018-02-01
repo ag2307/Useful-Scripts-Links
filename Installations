@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+--> Chrome Signin Problem:
+	chrome://chrome-signin
 --> read only mount a drive
 		sudo mkdir /media/windows/c-drive 
 		sudo mkdir /media/windows/e-drive 
