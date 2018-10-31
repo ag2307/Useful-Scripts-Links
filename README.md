@@ -10,11 +10,23 @@ Links to various courses and help material
 5. [HackerEarth](https://www.hackerearth.com/)
 6. [CodeForces](http://codeforces.com/)
 7. [CodeFights](https://codefights.com/)
-8. [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
-9. [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
-10. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
-11. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
-12. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+8. [Coderbyte](https://coderbyte.com/)
+
+## Useful Coding Links
+
+1. [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
+2. [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
+3. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
+4. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+5. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+
+## Interview Preparation Links
+
+1. [Hired in Tech](https://www.hiredintech.com/)
+2. [interviewBit](https://www.interviewbit.com/dashboard/)
+3. [Interviewing](https://interviewing.io/)
+4. [pramp](https://www.pramp.com/)
+5. [Leetcode](https://leetcode.com/)
 
 ## Coding Interview Preparation
 
@@ -55,6 +67,7 @@ Links to various courses and help material
 
 1. [Git Documentation](https://git-scm.com/docs)
 2. [Setting up proxy settings in git](http://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server)
+3. [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Java Server Pages (JSP)
 
@@ -94,6 +107,7 @@ Links to various courses and help material
 3. [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 4. [How to Setup IRC's](https://www.youtube.com/watch?v=gMQ9b-OPOsg)
 5. [Youtube Keyboard Shortcuts](http://www.hongkiat.com/blog/youtube-keyboard-shortcuts/)
+6. [Vim Adventures - learn vim while playing a game](https://vim-adventures.com/)
 
 ## Latex
 

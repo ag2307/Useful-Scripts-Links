@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long int 
+#define ld long double
+ 
+#define DEBUG(x) cout << '>' << #x << ':' << x << endl;
+
+#define out(array,a,b) {for(ll i=a;i<=b;i++){cout<<array[i]<<" ";};cout<<endl;}
+#define rep(i,a,b) for(i=a;i<=b;i++)
+#define rev(i,a,b) for(i=a;i>=b;i--)
+
+#define pll pair<ll,ll>
+#define vll vector<ll>
+#define mll map<ll,ll>
+#define sll set<ll>
+#define stll stack<ll>
+#define qll queue<ll>
+#define vpll vector<pll>
+#define vvpll vector<vpll>
+#define F first
+#define S second
+#define pb push_back
+#define ps push
+#define mp make_pair
+#define NMAX 100005
+#define MOD 1000000007
+
+
+
+int main(){
+	std::ios::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+	ll i,j,k;
+	
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>code</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
