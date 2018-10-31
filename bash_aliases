@@ -17,6 +17,4 @@ alias own='own(){
 	sudo chown -R abhinav:abhinav $1;
 	}; own'
 
-alias e="cd /media/abhinav/00BC77C1BC77B030/"
-alias c="cd /media/abhinav/84FA8BBDFA8BA9CE/"
 alias autoremove='sudo apt-get autoremove'
