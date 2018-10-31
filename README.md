@@ -3,115 +3,105 @@ Links to various courses and help material
 
 ## Competitive Programming
 
-1. [Codechef](https://www.codechef.com/)
-2. [SPOJ](http://www.spoj.com/)
-3. [TopCoder](https://www.topcoder.com/)
-4. [HackerRank](https://www.hackerrank.com/)
-5. [HackerEarth](https://www.hackerearth.com/)
-6. [CodeForces](http://codeforces.com/)
-7. [CodeFights](https://codefights.com/)
-8. [Coderbyte](https://coderbyte.com/)
+- [CodeForces](http://codeforces.com/)
+- [AtCoder](https://atcoder.jp/)
+- [Codechef](https://www.codechef.com/)
+- [SPOJ](http://www.spoj.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
 
 ## Useful Coding Links
 
-1. [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
-2. [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
-3. [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
-4. [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
-5. [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
-
-## Interview Preparation Links
-
-1. [Hired in Tech](https://www.hiredintech.com/)
-2. [interviewBit](https://www.interviewbit.com/dashboard/)
-3. [Interviewing](https://interviewing.io/)
-4. [pramp](https://www.pramp.com/)
-5. [Leetcode](https://leetcode.com/)
+- [Why is “using namespace std” considered bad practice?](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
+- [Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
+- [Vector Initialisation](http://stackoverflow.com/questions/28712364/difference-between-vector-int-v-and-vector-vectorint-v)
+- [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+- [Segment Tree](http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
 
 ## Coding Interview Preparation
 
-1. [LeetCode](https://leetcode.com)
-2. [InterviewBit](http://interviewbit.com)
-3. [GeeksforGeeks](http://interviewbit.com)
+- [LeetCode](https://leetcode.com)
+- [InterviewBit](http://interviewbit.com)
+- [GeeksforGeeks](http://interviewbit.com)
+- [Hired in Tech](https://www.hiredintech.com/)
+- [Interviewing](https://interviewing.io/)
+- [Pramp](https://www.pramp.com/)
 
 ## ACM-ICPC Notebook
 
-1. [MIT Notebook](http://web.mit.edu/~ecprice/acm/acm08/notebook.html)
+- [MIT Notebook](http://web.mit.edu/~ecprice/acm/acm08/notebook.html)
 
 ## Data Structures and Algorithms
 
-1. [Cormen 3rd edition solutions-1](http://www.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
-2. [Cormen 3rd edition solutions-2](https://github.com/gzc/CLRS)
-3. [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+- [Cormen 3rd edition solutions-1](http://www.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+- [Cormen 3rd edition solutions-2](https://github.com/gzc/CLRS)
+- [Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 
 ## Django
 
-1. https://docs.djangoproject.com/en/1.10/
-2. http://tutorial.djangogirls.org/
-3. https://docs.djangoproject.com/en/1.8/intro/tutorial01/
-4. https://github.com/twoscoops/django-twoscoops-project
+- [django-docs](https://docs.djangoproject.com/en/1.10/)
+- [django-girls](http://tutorial.djangogirls.org/)
+- [django-twoscoops](https://github.com/twoscoops/django-twoscoops-project)
   
 ## GitHub
 
-1. https://help.github.com/
-2. **For Commiting large files on github** refer to https://help.github.com/articles/installing-git-large-file-storage/
+- [Help Page](https://help.github.com/)
+- `Commiting large files on github` : 
+  - https://help.github.com/articles/installing-git-large-file-storage/
       and https://git-lfs.github.com/
-3. **Using Markdown on GitHub** refer to https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
-4. **Adding emojis to git/github commit messages**
-   - [Link-1](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-   - [Link-2](https://gist.github.com/rxaviers/7360908)
-5. [**Customized Badges for Github Readme**](http://shields.io/)
+- `Using Markdown on GitHub` :
+  - https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
+- `Adding emojis to git/github commit messages` :
+  - https://www.webpagefx.com/tools/emoji-cheat-sheet/
+  - https://gist.github.com/rxaviers/7360908
+- [Customized Badges for Github Readme](http://shields.io/)
   
 
 ## Git
 
-1. [Git Documentation](https://git-scm.com/docs)
-2. [Setting up proxy settings in git](http://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server)
-3. [Learn Git Branching](https://learngitbranching.js.org/)
+- [Git Documentation](https://git-scm.com/docs)
+- [Setting up proxy settings in git](http://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Java Server Pages (JSP)
 
-1. http://www.tutorialspoint.com/jsp/
-2. http://www.javatpoint.com/jsp-tutorial
-3. http://www.jsptut.com/
-  
-## Machine Learning
-
-1. [Machine Learning By Andrew Ng](https://www.coursera.org/learn/machine-learning)                                   
-2. https://www.coursera.org/learn/neural-networks
+- http://www.tutorialspoint.com/jsp/
+- http://www.javatpoint.com/jsp-tutorial
+- http://www.jsptut.com/
 
 ## Dual-Booting 
 #### (Ubuntu alongside Windows)
 
-1. [Dual-Booting Steps](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-2. [Bootable USB Creator Tool](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
-3. [Fixing Time Conflict After Dual Booting](http://askubuntu.com/questions/169376/clock-time-is-off-on-dual-boot) or [Setting time Manually](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Configuring_the_Date_and_Time.html) and for reverting the settings refer to [this](http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html) .
+- [Dual-Booting Steps](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [Bootable USB Creator Tool](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
+- [Fixing Time Conflict After Dual Booting](http://askubuntu.com/questions/169376/clock-time-is-off-on-dual-boot) or [Setting time Manually](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Configuring_the_Date_and_Time.html) and for reverting the settings refer to [this](http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html) .
 
 ## Ubuntu
 
-1. [Getting used to Terminal](http://linuxcommand.org/index.php)
-2. [Terminal Guide](https://help.ubuntu.com/community/CategoryCommandLine)
-3. [Installing Wine](http://ubuntuhandbook.org/index.php/2015/12/install-wine-1-8-stable-new-ppa/)
-4. [Software installation through Wine](http://askubuntu.com/questions/316025/how-to-install-and-configure-wine)
-5. [Creating Hotspot in Ubuntu 16.04](http://askubuntu.com/questions/762846/how-to-creat-wifi-hotspot-in-ubuntu-16-04-since-ap-hotspot-is-no-more-working) 
-6. [Shortening command line (bash) prompt?](http://askubuntu.com/questions/145618/how-can-i-shorten-my-command-line-bash-prompt)
+- [Getting used to Terminal](http://linuxcommand.org/index.php)
+- [Terminal Guide](https://help.ubuntu.com/community/CategoryCommandLine)
+- [Installing Wine](http://ubuntuhandbook.org/index.php/2015/12/install-wine-1-8-stable-new-ppa/)
+- [Software installation through Wine](http://askubuntu.com/questions/316025/how-to-install-and-configure-wine)
+- [Creating Hotspot in Ubuntu 16.04](http://askubuntu.com/questions/762846/how-to-creat-wifi-hotspot-in-ubuntu-16-04-since-ap-hotspot-is-no-more-working) 
+- [Shortening command line (bash) prompt?](http://askubuntu.com/questions/145618/how-can-i-shorten-my-command-line-bash-prompt)
 
 ## Windows Twerks
 
-1. [Creating Hotspot through **Command Prompt**](http://www.technicalnotes.org/create-wi-fi-hotspot-in-windows-10-using-command-prompt/)
+- [Creating Hotspot through Command Prompt](http://www.technicalnotes.org/create-wi-fi-hotspot-in-windows-10-using-command-prompt/)
 
 ## Other Links
 
-1. [Type a function and see it's graph !!](https://www.desmos.com/calculator)
-2. [Visualise data structures and algorithms through animation](http://visualgo.net/)
-3. [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
-4. [How to Setup IRC's](https://www.youtube.com/watch?v=gMQ9b-OPOsg)
-5. [Youtube Keyboard Shortcuts](http://www.hongkiat.com/blog/youtube-keyboard-shortcuts/)
-6. [Vim Adventures - learn vim while playing a game](https://vim-adventures.com/)
+- [Type a function and see it's graph !!](https://www.desmos.com/calculator)
+- [Visualise data structures and algorithms through animation](http://visualgo.net/)
+- [Typing mathematical formulaes](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+- [How to Setup IRC's](https://www.youtube.com/watch?v=gMQ9b-OPOsg)
+- [Youtube Keyboard Shortcuts](http://www.hongkiat.com/blog/youtube-keyboard-shortcuts/)
+- [Vim Adventures - learn vim while playing a game](https://vim-adventures.com/)
 
 ## Latex
 
-1.  [Latex Online Compiler](https://www.sharelatex.com/)
-2.  **Math symbols/expressions to latex code converter** :
-    - https://www.codecogs.com/latex/eqneditor.php
-    - http://www.hostmath.com/
+- [Latex Online Compiler](https://www.sharelatex.com/)
+- `Math symbols/expressions to latex code converter` :
+  - https://www.codecogs.com/latex/eqneditor.php
+  - http://www.hostmath.com/
