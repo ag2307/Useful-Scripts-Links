@@ -19,7 +19,6 @@ using namespace std;
 #define stll stack<ll>
 #define qll queue<ll>
 #define vpll vector<pll>
-#define vvpll vector<vpll>
 #define F first
 #define S second
 #define pb push_back
@@ -34,7 +33,7 @@ int main(){
 	std::ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
-	ll i,j,k;
+	ll i,j;
 	
 }
 ]]></content>
